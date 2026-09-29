@@ -134,13 +134,6 @@ Proyecto_1BasesDeDatos/
 ├── InsertarInfo.sql              # Sample data
 └── Consultas_Punto1              # Query examples
 ```
-
-## 👨‍💼 Author
-
-**Danielamn026** - Database design and implementation
-
-## 📄 License
-
 This project is available as-is for educational and development purposes.
 
 ---
